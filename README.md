@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi ! I'm Daksh I love all things Data.<br>🌱 I’m currently learning - Applications of ML in quantitative finance <br>💬 Ask me about - Anything !<br>⚡ Currently reading :<br>Quantitate finance : <br>- Expected Returns an Investors Guide to Harvesting Market by Antti Ilmanen  <br>- Advances in Financial Machine learning by Marcos Lopez De Prado  <br>General :<br>- The god of small Things By Arundhati Roy<br>
+Hi ! I'm Daksh I love all things Data.<br>🌱 I’m currently learning - Applications of ML in quantitative finance <br>💬 Ask me about - Anything !<br>⚡ Currently reading :<br>Quantitate finance : <br>- Expected Returns an Investors Guide to Harvesting Market by Antti Ilmanen  
+Up Next: <br>- Advances in Financial Machine learning by Marcos Lopez De Prado  <br>General :<br>- The god of small Things By Arundhati Roy<br>
 
 
 # 🌐 Socials:
