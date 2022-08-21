@@ -3,9 +3,6 @@ Hi ! I'm Daksh I love all things Data.<br>🌱 I’m currently learning - Applic
 Up Next: <br>- Advances in Financial Machine learning by Marcos Lopez De Prado 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-mukhra001) 
-
 
 
 
